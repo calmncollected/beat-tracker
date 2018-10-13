@@ -10,7 +10,7 @@ import numpy as np
 import sys
 import subprocess
 
-beat_file = "beat1.wav"
+beat_file = "beat1.wav" # This is the type of beat you want to generate
 audio_out_file = "beat_out.wav"
 '''
 Function: generatebeat: Extracts beat time stamps and generates the wav file only with the beats
